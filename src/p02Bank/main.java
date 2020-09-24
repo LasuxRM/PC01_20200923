@@ -7,6 +7,7 @@ public class main {
 
 		Bank banco = new Bank("", "657687");
 		
+		System.out.println(banco.getName());
 		
 	}
 
